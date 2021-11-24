@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumesha22
 - 👀 I’m interested in travelling
 - 🌱 I’m currently learning btech computer science
-- 💞️ I’m looking to collaborate with google & Microsoft
 - 📫 How to reach me :sumesha220802@gmail.com
 
 <!---
